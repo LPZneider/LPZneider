@@ -1,16 +1,18 @@
-## Hi there 👋
+# !Hola! Soy Neider López 👋🏻
 
-<!--
-**LPZneider/LPZneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador full stack de Bogota Colombia. Me gusta crear aplicaciones eficientes y seguras para esto uso tecnologias en el frontend con [React](https://react.dev/versions) y [Typescript](https://www.typescriptlang.org/). En el backend con [Java](https://www.java.com/es/) y [Jakarta EE](https://jakarta.ee/), aparte manejo las bases de datos usando [MySQL](https://dev.mysql.com/doc/) en plataformas como [AWS](https://docs.aws.amazon.com/).
 
-Here are some ideas to get you started:
+## Mis Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend   | Backend     | Base de datos | Server |
+| ---------- | ----------- | ------------- | ------ |
+| Javascript | Java        | SQL           | AWS    |
+| Typescript | Jakarta EE  | MySql         |
+| React      | Spring boot |               |
+| SASS       |             |               |
+| Bootstrap  |             |               |
+
+## Puedes encontrarme en:
+
+[Linkedin](https://www.linkedin.com/in/lpzneider/)
+
