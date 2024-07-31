@@ -8,7 +8,8 @@ Soy un desarrollador full stack de Bogota Colombia. Me gusta crear aplicaciones 
 | ---------- | ----------- | ------------- | ------ |
 | Javascript | Java        | SQL           | AWS    |
 | Typescript | Jakarta EE  | MySql         |
-| React      | Spring boot |               |
+| React      | Spring boot | SQL server    |
+| Angular    | Spring cloud|               |
 | SASS       |             |               |
 | Bootstrap  |             |               |
 
