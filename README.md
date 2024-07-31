@@ -1,6 +1,7 @@
 # !Hola! Soy Neider López 👋🏻
 
-Soy un desarrollador full stack de Bogota Colombia. Me gusta crear aplicaciones eficientes y seguras para esto uso tecnologias en el frontend con [React](https://react.dev/versions) y [Typescript](https://www.typescriptlang.org/). En el backend con [Java](https://www.java.com/es/) y [Jakarta EE](https://jakarta.ee/), aparte manejo las bases de datos usando [MySQL](https://dev.mysql.com/doc/) en plataformas como [AWS](https://docs.aws.amazon.com/).
+Soy un desarrollador especializado en backend de Bogotá, Colombia, apasionado por crear aplicaciones eficientes y seguras utilizando tecnologías como Java con [Spring Boot](https://spring.io/projects/spring-boot) y [Jakarta EE](https://jakarta.ee/). Aunque mi enfoque principal es el backend, también tengo sólidos conocimientos en frontend con [React](https://reactjs.org/) y [TypeScript](https://www.typescriptlang.org/), y actualmente estoy aprendiendo [Angular](https://angular.io/). Además, manejo bases de datos [MySQL](https://www.mysql.com/) y despliego aplicaciones en plataformas como [AWS](https://aws.amazon.com/).
+
 
 ## Mis Habilidades
 
